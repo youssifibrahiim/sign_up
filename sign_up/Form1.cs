@@ -26,7 +26,14 @@ namespace sign_up
         StreamReader sr;
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            /*
+             zbyyyyyy
+            mngaaaaaa
+            elbolbol
+             
+             
+             
+             */
         }
         private void login_btn_Click(object sender, EventArgs e)
         {
